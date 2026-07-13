@@ -1,37 +1,90 @@
-# Hey, I'm Pranali! 👋
+# Hi, I'm Pranali Pathare...
 
-Final year Computer Engineering student from Pune.
-I work with Java and I'm currently diving deeper into
-Spring Boot and DSA alongside my college projects.
-Always looking to learn and build things that actually work.
+🎓 Computer Engineering Graduate  
+💻 Aspiring Java Backend Developer passionate about building scalable backend applications using Java and Spring Boot.
+
+I enjoy learning backend technologies, solving problems, and building real-world applications. Currently, I am strengthening my knowledge of Core Java, Spring Boot, SQL, and Data Structures & Algorithms.
 
 ---
-## 🛠️ What I Work With
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- SQL
+
+### Backend
+- Spring Boot
+- Spring Security
+- REST APIs
+- Hibernate / JPA
+- JWT Authentication
+
+### Database
+- MySQL
+- PostgreSQL
+
+### Tools
+- Postman
+- Github
 ---
 
-## 💻 Projects
+## 🚀 Projects
 
-### 🗓️ Event Management System
-A full Java-based application to manage events —
-handles registrations, scheduling and basic event operations.
-Built this as part of my academic work and learned a lot about
-structuring real-world logic in Java.
+### 🌟 CollabSpace – AI Powered Virtual Collaboration Platform
 
-🔗 [View Project](https://github.com/pranali440/Event-Management)
+A collaborative platform that helps teams communicate and work together in real time.
+
+**Key Features**
+- Secure JWT Authentication
+- AI Chat Assistant (Gemini API)
+- Real-time Collaborative Notes
+- Online Code Editor
+- Whiteboard
+- Video Meetings
+- Task Management
+- REST APIs
+- MySQL & Firebase Integration
+
+🌐 Live Demo: https://collab-space-pranali.vercel.app/
+
+📂 Repository: https://github.com/pranali440/CollabSpace
+
+---
+
+### 🌱 Sprout – Learning & Collaboration Platform
+
+A Spring Boot based project currently under active development.
+
+**Current Features**
+- User Authentication
+- Secure REST APIs
+- Database Integration
+- Backend Development with Spring Boot
+- Continuous Feature Enhancements
+
+📂 Repository: https://github.com/pranali440/sprout
+
+---
+
+### 📅 Event Management System
+
+A Java-based application for managing events, registrations, and scheduling.
+
+**Features**
+- Event Registration
+- Event Scheduling
+- User Management
+- Core Java Concepts
+
+📂 Repository: https://github.com/pranali440/Event-Management
+
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pranali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranali440&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranali440&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranali440&layout=compact&theme=tokyonight)
 
@@ -39,9 +92,4 @@ structuring real-world logic in Java.
 
 ---
 
-## 📖 Currently Working On
-- Getting better at **DSA** (Data Structures & Algorithms)
-- Learning **Spring Boot** for backend development
-- Building projects that go beyond college assignments
-
----
+⭐ Thanks for visiting my profile!
