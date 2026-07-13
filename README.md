@@ -1,8 +1,7 @@
 # Hi, I'm Pranali Pathare...
 
 🎓 Computer Engineering Graduate  
-💻 Aspiring Java Backend Developer passionate about building scalable backend applications using Java and Spring Boot.
-
+💻 Java Backend Developer passionate about building scalable backend applications with Java and Spring Boot.
 I enjoy learning backend technologies, solving problems, and building real-world applications. Currently, I am strengthening my knowledge of Core Java, Spring Boot, SQL, and Data Structures & Algorithms.
 
 ---
